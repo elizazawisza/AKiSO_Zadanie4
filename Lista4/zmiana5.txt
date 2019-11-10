@@ -1,0 +1,19 @@
+*** strona_przed.txt	2019-11-10 18:54:49.000000000 +0000
+--- strona_po.txt	2019-11-10 18:54:53.000000000 +0000
+***************
+*** 6,12 ****
+  
+   
+  Aktualny czas w Wrocław, Polska:
+! 19:54:46
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
+--- 6,12 ----
+  
+   
+  Aktualny czas w Wrocław, Polska:
+! 19:54:53
+  
+  Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
+  wyłączona w przeglądarce.
