@@ -1,11 +1,11 @@
-*** strona_przed.txt	2019-11-17 22:20:56.000000000 +0000
---- strona_po.txt	2019-11-17 22:21:00.000000000 +0000
+*** strona_przed.txt	2019-11-18 10:20:37.000000000 +0000
+--- strona_po.txt	2019-11-18 10:20:40.000000000 +0000
 ***************
 *** 6,12 ****
   
    
   Aktualny czas w Wrocław, Polska:
-! 23:20:56
+! 11:20:34
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
@@ -13,48 +13,7 @@
   
    
   Aktualny czas w Wrocław, Polska:
-! 23:21:00
+! 11:20:38
   
   Zegar nie tyka ponieważ obsługa JavaScrip nie jest dostępna lub została
   wyłączona w przeglądarce.
-***************
-*** 16,34 ****
-  Słońce: ↑ 07:11 ↓ 16:02 (8h 51min) Więcej informacji
-  
-    • Tokio
-!     07:20
-    • Pekin
-!     06:20
-    • Moskwa
-!     01:20
-    • Paryż
-!     23:20
-    • Londyn
-!     22:20
-    • Nowy Jork
-!     17:20
-    • Los Angeles
-!     14:20
-  
-  Udostępnij tę stronę!
-  Abu Zabi Addis Abeba Amsterdam Antananarywa Auckland Bagdad Bangkok Barcelona
---- 16,34 ----
-  Słońce: ↑ 07:11 ↓ 16:02 (8h 51min) Więcej informacji
-  
-    • Tokio
-!     07:21
-    • Pekin
-!     06:21
-    • Moskwa
-!     01:21
-    • Paryż
-!     23:21
-    • Londyn
-!     22:21
-    • Nowy Jork
-!     17:21
-    • Los Angeles
-!     14:21
-  
-  Udostępnij tę stronę!
-  Abu Zabi Addis Abeba Amsterdam Antananarywa Auckland Bagdad Bangkok Barcelona
